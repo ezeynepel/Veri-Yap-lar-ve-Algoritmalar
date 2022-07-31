@@ -1,4 +1,5 @@
 # Proje 1
+# Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
 s1.1:Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 s1.2:Big-O gösterimini yazınız.
@@ -26,7 +27,7 @@ best case: O(n)
 
 ç1.4: average case
 
-# Proje 2
+# Soru 2
 s2.1: [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 # Çözüm 2
