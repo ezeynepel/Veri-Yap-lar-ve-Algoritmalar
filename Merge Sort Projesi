@@ -4,11 +4,11 @@
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-1. [16,21,11,8,12,22] dizisini ikiye bölelim.
+1. [16,21,11,8,12,22] dizisini ortadan ikiye bölelim.
 
 2. [16,21,11] ve [8,12,22] olmak üzere iki küme oluştu.
 
-3. [16] - [21,11] ve [8] - [12,22] olarak elimizde 4 küme oldu.
+3. [16] --- [21,11] ve [8] --- [12,22] olarak elimizde 4 küme oldu.
 
 4. Verileri tek elemanlı küme olacak şekilde ayıralım: [16]-[21]-[11]-[8]-[12]-[22]
 
