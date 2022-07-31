@@ -5,7 +5,7 @@ s1.2:Big-O gösterimini yazınız.
 s1.3:Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 s1.4:Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-# çözüm 1 
+# Çözüm 1 
 ç1.1:
 [22,27,16,2,18,6]
 dizimizin en küçük sayısını en başa getirmek için 2 ile 22 elemanlarını yer değiştiririz.
@@ -29,6 +29,7 @@ best case: O(n)
 # Proje 2
 s2.1: [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
+# Çözüm 2
 adım 1:
 [2,3,5,8,7,9,4,15,6]
 adım 2:
