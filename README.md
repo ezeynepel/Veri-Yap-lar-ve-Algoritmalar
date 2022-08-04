@@ -1,17 +1,17 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# VeriiYapıları ve Algoritmalar
 
 www.patika.dev
  
-### Insertion Sort Proje Ödevi
+# Insertion Sort Proje Ödevi
 
-# Soru 1
+## Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
 s1.1:Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 s1.2:Big-O gösterimini yazınız.
 s1.3:Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 s1.4:Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-# Çözüm 1 
+## Çözüm 1 
 ç1.1:
 [22,27,16,2,18,6]
 dizimizin en küçük sayısını en başa getirmek için 2 ile 22 elemanlarını yer değiştiririz.
@@ -32,10 +32,10 @@ best case: O(n)
 
 ç1.4: average case
 
-# Soru 2
+## Soru 2
 s2.1: [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-# Çözüm 2
+## Çözüm 2
 adım 1:
 [2,3,5,8,7,9,4,15,6]
 adım 2:
@@ -47,9 +47,9 @@ adım 4:
 
 
 
-## Merge Sort Proje Ödevi
+# Merge Sort Proje Ödevi
 
-# Soru 1
+## Soru 1
 [16,21,11,8,12,22] -> Merge Sort
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
@@ -66,19 +66,19 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 6. Son olarak birleştirelim. [8,11,12,16,21,22]
 
-# Soru 2
+## Soru 2
 Big-O gösterimini yazınız.
 O(nLogn)
 
 
 
-#Binary Search Tree Proje Ödevi
+# Binary Search Tree Proje Ödevi
 
-# Soru 1
+##  Soru 1
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
-# Çözüm 1
+## Çözüm 1
 1. root 7'dir. 
 2. 5 sayısı 7'den küçük olduğundan sol tarafa yazılır.
 3. 1 sayısı 5'den küçük olduğundan 5 sayısının soluna yazılır.
