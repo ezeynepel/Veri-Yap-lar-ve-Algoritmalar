@@ -2,7 +2,7 @@
 
 www.patika.dev
  
-### Insertion Sort
+### Insertion Sort Proje Ödevi
 
 # Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
@@ -47,7 +47,7 @@ adım 4:
 
 
 
-## Merge Sort Proje ödevi
+## Merge Sort Proje Ödevi
 
 # Soru 1
 [16,21,11,8,12,22] -> Merge Sort
@@ -69,3 +69,23 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 # Soru 2
 Big-O gösterimini yazınız.
 O(nLogn)
+
+
+
+#Binary Search Tree Proje Ödevi
+
+# Soru 1
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+# Çözüm 1
+1. root 7'dir. 
+2. 5 sayısı 7'den küçük olduğundan sol tarafa yazılır.
+3. 1 sayısı 5'den küçük olduğundan 5 sayısının soluna yazılır.
+4. 8 sayısı 7'den büyük olduğundan 7 sayısının sağ tarafına yazılır.
+5. 3 sayısı ise 7 ve 5'ten küçük fakat 1'den büyüktür. 1 sayısının sağına yazılır
+6. 6 sayısı 7'den küçük 5'ten büyük olduğundan 5'in sağ tarafına yazılır.
+7. 0 sayısı 7, 5 ve 1'den küçük olduğundan 1'in soluna yazılır.
+8. 9 sayısı 7 ve 8'den büyük olduğundan 8'in sağ tarafına yazılır.
+9. 4 sayısı 7 ve 5'in soluna yazılırken 1 ve 3'ün sağında kalır.
+10. 2 sayısı da 7 ve 5'in soluna yazılırken 1'in sağında kalan 3'ün solunda yazılır.
