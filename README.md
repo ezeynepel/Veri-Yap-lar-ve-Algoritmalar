@@ -3,3 +3,26 @@
 www.patika.dev
 
 
+
+## Merge Sort Proje ödevi
+
+# Soru 1
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+1. [16,21,11,8,12,22] dizisini ortadan ikiye bölelim.
+
+2. [16,21,11] ve [8,12,22] olmak üzere iki küme oluştu.
+
+3. [16] --- [21,11] ve [8] --- [12,22] olarak elimizde 4 küme oldu.
+
+4. Verileri tek elemanlı küme olacak şekilde ayıralım: [16]-[21]-[11]-[8]-[12]-[22]
+
+5. Verileri küçükten büyüğe kendi grupları içinde birleştirelim: [16]-[11,21]-[8]-[12,22] => [11,16,21] - [8,12,22]
+
+6. Son olarak birleştirelim. [8,11,12,16,21,22]
+
+# Soru 2
+Big-O gösterimini yazınız.
+O(nLogn)
