@@ -1,4 +1,4 @@
-# VeriiYapıları ve Algoritmalar
+# Veri Yapıları ve Algoritmalar
 
 www.patika.dev
  
