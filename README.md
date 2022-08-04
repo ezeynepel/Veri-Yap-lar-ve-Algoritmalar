@@ -2,4 +2,4 @@
 
 www.patika.dev
 
-# byk bşlk
+
