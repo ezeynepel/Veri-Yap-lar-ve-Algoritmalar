@@ -2,7 +2,7 @@
 
 www.patika.dev
  
-##Insertion Sort
+### Insertion Sort
 
 # Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
